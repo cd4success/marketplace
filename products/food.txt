@@ -1,0 +1,35 @@
+Fruits
+1 kilo of apples -  N650
+1 kilo of oranges - N410
+1 kilo of pineapples - N700
+
+1 kilo of pear - N0
+1 kilo of dates - N580
+
+Grains, seasonings
+1 kilo of beans - N730
+1 kilo of rice - N830
+1 kilo of garri - N350
+
+Vegetables and pepper
+A bowl of red bell pepper - N500
+A bowl of tomatoes - N630
+A bowl of chilli pepper - N520
+A kilo of cabbage - N700
+A kilo of green vegetables - N275
+
+Oil
+1 large bottle of palm oil - N500
+1 large bottle of - N420
+
+Spices and seasonings
+A Ajinomoto maggie - 600
+A pack of Royco maggie - N450
+A pack of Knorr maggie - N500
+
+Meat and Poultry
+1 crate of eggs - N1200
+1 kilo of chicken - N1800
+1 kilo of turkey - N2100
+A whole frozen chicken - N1650
+1 kilo of cow meat - N1900
