@@ -3,7 +3,7 @@ Fruits
 1 kilo of oranges - N410
 1 kilo of pineapples - N700
 
-1 kilo of pear - N0
+1 kilo of pear - N480
 1 kilo of dates - N580
 
 Grains, seasonings
