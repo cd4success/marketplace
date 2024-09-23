@@ -1,0 +1,11 @@
+First seller
+Name: Emmanuel Ajayi
+Phone: 08123472827
+
+Second seller
+Name: Grace Williams
+Phone: 070676253637
+
+Third seller
+Name: John Boyd
+Phone: 12344875994
